@@ -1,0 +1,12 @@
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\bin\Debug\netcoreapp2.1\Repository.Models.deps.json
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\bin\Debug\netcoreapp2.1\Repository.Models.dll
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\bin\Debug\netcoreapp2.1\Repository.Models.pdb
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\obj\Debug\netcoreapp2.1\Repository.Models.csprojAssemblyReference.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\obj\Debug\netcoreapp2.1\Repository.Models.csproj.CoreCompileInputs.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\obj\Debug\netcoreapp2.1\Repository.Models.AssemblyInfoInputs.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\obj\Debug\netcoreapp2.1\Repository.Models.AssemblyInfo.cs
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\obj\Debug\netcoreapp2.1\Repository.Models.csproj.CopyComplete
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\obj\Debug\netcoreapp2.1\Repository.Models.dll
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository.Models\obj\Debug\netcoreapp2.1\Repository.Models.pdb

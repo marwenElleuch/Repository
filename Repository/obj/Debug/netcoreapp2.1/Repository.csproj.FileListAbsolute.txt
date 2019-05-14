@@ -1,0 +1,14 @@
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.RazorAssemblyInfo.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.RazorAssemblyInfo.cs
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.RazorTargetAssemblyInfo.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.pdb

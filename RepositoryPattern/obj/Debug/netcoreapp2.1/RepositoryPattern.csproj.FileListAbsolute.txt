@@ -1,0 +1,14 @@
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\bin\Debug\netcoreapp2.1\RepositoryPattern.deps.json
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\bin\Debug\netcoreapp2.1\RepositoryPattern.dll
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\bin\Debug\netcoreapp2.1\RepositoryPattern.pdb
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\bin\Debug\netcoreapp2.1\Repository.Models.dll
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\bin\Debug\netcoreapp2.1\Repository.Models.pdb
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\obj\Debug\netcoreapp2.1\RepositoryPattern.csprojAssemblyReference.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\obj\Debug\netcoreapp2.1\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\obj\Debug\netcoreapp2.1\RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\obj\Debug\netcoreapp2.1\RepositoryPattern.AssemblyInfo.cs
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\obj\Debug\netcoreapp2.1\RepositoryPattern.csproj.CopyComplete
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\obj\Debug\netcoreapp2.1\RepositoryPattern.dll
+C:\Users\melleuch\Documents\Visual Studio 2017\Projects\Repository\RepositoryPattern\obj\Debug\netcoreapp2.1\RepositoryPattern.pdb
